@@ -1,0 +1,43 @@
+{
+  "name": "wonder_admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yjw81/wonder_admin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yjw81/wonder_admin/issues"
+  },
+  "homepage": "https://github.com/yjw81/wonder_admin#readme",
+  "dependencies": {
+    "webpack": "^4.12.0",
+    "webpack-cli": "^3.0.8"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free-webfonts": "^1.0.9",
+    "autoprefixer": "^8.6.3",
+    "bootstrap": "^4.1.1",
+    "css-loader": "^0.28.11",
+    "exports-loader": "^0.7.0",
+    "extract-text-webpack-plugin": "^4.0.0-beta.0",
+    "file-loader": "^1.1.11",
+    "jquery": "^3.3.1",
+    "node-sass": "^4.9.0",
+    "popper.js": "^1.14.3",
+    "postcss-loader": "^2.1.5",
+    "prismjs": "^1.15.0",
+    "sass-loader": "^7.0.3",
+    "style-loader": "^0.21.0",
+    "tui-grid": "^2.10.1",
+    "url-loader": "^1.0.1"
+  }
+}
