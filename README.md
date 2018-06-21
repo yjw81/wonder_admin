@@ -67,7 +67,3 @@ https://git-codecommit.ap-northeast-2.amazonaws.com/v1/repos/wonder_admin
 #### [![Toast UI](https://dooray.com/static_images/toast_dooray.png)](http://ui.toast.com/)
 
 #### [![Sweet Alert](https://sweetalert.js.org./assets/images/logo.svg)](https://sweetalert.js.org/docs/)
-
-
-<p><a href="http://ui.toast.com/sw"><img src="https://dooray.com/static_images/toast_dooray.png" alt="Toast UI"></a><br>
-<a href="https://sweetalert.js.org/docs/"><img src="https://sweetalert.js.org/assets/images/logo.svg" alt="Sweet Alert"></a></p>
