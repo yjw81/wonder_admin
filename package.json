@@ -12,15 +12,14 @@
     "url": "git+https://github.com/yjw81/wonder_admin.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Wemakeprice FE Team",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/yjw81/wonder_admin/issues"
   },
   "homepage": "https://github.com/yjw81/wonder_admin#readme",
   "dependencies": {
-    "webpack": "^4.12.0",
-    "webpack-cli": "^3.0.8"
+    "sweetalert2": "^7.23.1"
   },
   "devDependencies": {
     "@fortawesome/fontawesome-free-webfonts": "^1.0.9",
@@ -38,6 +37,7 @@
     "sass-loader": "^7.0.3",
     "style-loader": "^0.21.0",
     "tui-grid": "^2.10.1",
-    "url-loader": "^1.0.1"
+    "url-loader": "^1.0.1",
+    "webpack": "^4.12.0"
   }
 }
