@@ -5,6 +5,9 @@ window.jQuery = window.$ = require('jquery');
 //bootstrap
 require('bootstrap');
 
+// sweetalert2
+window.Swal = require('sweetalert2');
+
 //prismjs
 var Prism = require('prismjs');
 var code = "var data = 1;";
